@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://res.cloudinary.com/dsemmhzl3/image/upload/v1677534392/upload/rh9y4fsba8kojczfunay.jpg" alt="Project logo"></a>
+  <a href=" rel=" no opener">
+ <img width=200px height=200px src="https://res.cloudinary.com/dsemmhzl3/image/upload/v1677534392/upload/rh9y4fsba8kojczfunay.jpg" alt=" Project logo"></a>
 </p>
 
 <h3 align="center">Test Competion</h3>
@@ -31,7 +31,7 @@
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Acknowledgments](# acknowledgment)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -43,7 +43,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+What things do you need to install the software and how to install them?
 
 ```
 clone this repository on your local machine to get started
@@ -51,9 +51,9 @@ clone this repository on your local machine to get started
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+A step-by-step series of examples that tell you how to get a development env running.
 
-if you want to work with the fronted and backend you should follow tis steps
+if you want to work with the front and backend you should follow these steps
 
 ```
 cd client
@@ -63,7 +63,7 @@ cd client
 npm run dev
 ```
 
-then change directory to the server
+then change the directory to the server
 
 ```
 cd server
@@ -73,26 +73,26 @@ cd server
 npm start
 ```
 
-once the servers are bith started you should go to this url
+once the servers are both started you should go to this URL
 
 ```
 http://localhost:5173/
 ```
 
-i tried to make the ui friendly as to make it easier to work with
+I tried to make the UI friendly to make it easier to work with
 
-for the post input input any digit so as to get a limited post
+for the post input, any digit to get a limited post
 
-same goes for the comment input
+The same goes for the comment input
 
-but for the userId input input any userId from one to 20 as to get the post of that user
+but for the userId input, any userId from one to 20 to get the post of that user
  <video width=800px height=600px src="https://res.cloudinary.com/dsemmhzl3/video/upload/v1684294112/test_i6culn.mp4" alt="Project logo"></a>
 
 ## 🔧 Backend Only <a name = "tests"></a>
 
 For those that want to use only the backend here is the documentation
 
-after colning the repo on your local machine
+after cloning the repo on your local machine
 
 go to the server directory
 
@@ -106,7 +106,7 @@ then
 npm start
 ```
 
-### Break down into end to end tests
+### Break down into end-to-end tests
 
 Explain what these tests test and why
 
@@ -123,13 +123,13 @@ http://localhost:3000/api/posts
 http://localhost:3000/api/posts?limit=10
 ```
 
-### Get post of a user with his/her id
+### Get a post of a user with his/her id
 
 ```
 http://localhost:3000/api/posts?limit=10&userId=2
 ```
 
-### Get comments of a specific post
+### Get comments on a specific post
 
 ```
 http://localhost:3000/api/comments?limit=10&postId=2
@@ -145,7 +145,7 @@ http://localhost:3000/api/comments?limit=10&postId=2
 
 - [Victor mgbeahurike](https://github.com/vhiz) - Idea & Initial work
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 Acknowledgements <a name = "acknowledgment"></a>
 
 - Hat tip to anyone whose code was used
 - Inspiration
