@@ -1,0 +1,45 @@
+.post {
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 500px;
+  border-radius: 10px;
+  color: black;
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+
+  .posttop {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+    border-bottom: 1px solid rgb(218, 208, 208);
+    width: 100%;
+
+    img {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+    }
+
+    span {
+      font-weight: bold;
+    }
+  }
+
+  .postbottom {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .postComment {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    img {
+      width: 20px;
+      cursor: pointer;
+    }
+  }
+}
