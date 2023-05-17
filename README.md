@@ -58,6 +58,9 @@ if you want to work with the front and backend you should follow these steps
 ```
 cd client
 ```
+``` 
+npm install 
+```
 
 ```
 npm run dev
@@ -66,10 +69,12 @@ npm run dev
 then change the directory to the server
 
 ```
-cd server
+cd server 
 ```
-
+``` 
+npm install 
 ```
+``` 
 npm start
 ```
 
@@ -98,6 +103,9 @@ go to the server directory
 
 ```
 cd server
+```
+``` 
+npm install 
 ```
 
 then
